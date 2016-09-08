@@ -12,7 +12,7 @@ output: slidy_presentation
 ![](https://lh3.googleusercontent.com/PyX5BL0hZ-mjuvaHoCrA-sHShTRywuqc_7XiX90PRQOc-KOB3DL2uteyhwKLHH2IvBcamEXXHI4WYzEPLyJHUQPbKY1ZZLSBEV7wVAIeoTM9EQFl-_imuxh7io_Z8m5yQfl906sagaSeimOm_nhnBm_lCNaNqZHtXlBZnRaBMR0G4Swztdfmtk2cB8-g23fG9mnWVEHN4y8W2yGyxtKbTnI_OE7XfmmzmPdsLxr4GRhmixzmQiR6qXRIiRihElFNQFoS_zVUwKEG48EedqUvTLvUUAqNPl0YCIiYS99WGyLL4G8MshYLjkebJeqx46ADqvLSl4zFjAfIbJp0LNsFUYTTbPdPyEeSLGuupcjXGbqFhNsgUFklUdgQLXf_Q7ATe1mpjQcpOLGbJ4sq1sXqq2GAUGvjgD2tDX0ZkJObOLMhgaQlW4ahpQJOcm6wugmHwZJyu2pAF-91Djh7hzuHgJKDvfpC3si8v-37RgOXVRba28JqpSzoMoz3vZni-Mzvke9l-cfxM37hf67fZixakxVNeWh6tZPnqwcvsv6Wee-dP7ASxC-d5ILMOH_K9ss_fSU4tZDq_yldrfsIG8Y-M1vKJeNMNZD_HVtDcXO91KT_QxsC=w914-h515-no)
 
 
-Webpage: [mindymallory.github.io](mindymallory.github.io)  
+Webpage: [mindymallory.github.io](http://mindymallory.github.io)  
 email: [mallorym@illinois.edu](mallorym@illinois.edu)  
 CV: [http://mindymallory.github.io/CV/](http://mindymallory.github.io/CV/)  
 [Scholar](https://scholar.google.com/citations?user=bp9U6boAAAAJ&hl=en)
